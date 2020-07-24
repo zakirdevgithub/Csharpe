@@ -1,0 +1,6 @@
+H:\ASP.NET\StaticConstructor\bin\Debug\StaticConstructor.exe.config
+H:\ASP.NET\StaticConstructor\bin\Debug\StaticConstructor.exe
+H:\ASP.NET\StaticConstructor\bin\Debug\StaticConstructor.pdb
+H:\ASP.NET\StaticConstructor\obj\Debug\StaticConstructor.csprojAssemblyReference.cache
+H:\ASP.NET\StaticConstructor\obj\Debug\StaticConstructor.exe
+H:\ASP.NET\StaticConstructor\obj\Debug\StaticConstructor.pdb
