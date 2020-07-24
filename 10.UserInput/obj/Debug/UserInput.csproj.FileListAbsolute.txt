@@ -1,0 +1,6 @@
+H:\ASP.NET\UserInput\bin\Debug\UserInput.exe.config
+H:\ASP.NET\UserInput\bin\Debug\UserInput.exe
+H:\ASP.NET\UserInput\bin\Debug\UserInput.pdb
+H:\ASP.NET\UserInput\obj\Debug\UserInput.csprojAssemblyReference.cache
+H:\ASP.NET\UserInput\obj\Debug\UserInput.exe
+H:\ASP.NET\UserInput\obj\Debug\UserInput.pdb
