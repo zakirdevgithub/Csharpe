@@ -1,0 +1,5 @@
+H:\ASP.NET\PassByRefferenceOUT\bin\Debug\PassByRefferenceOUT.exe.config
+H:\ASP.NET\PassByRefferenceOUT\bin\Debug\PassByRefferenceOUT.exe
+H:\ASP.NET\PassByRefferenceOUT\bin\Debug\PassByRefferenceOUT.pdb
+H:\ASP.NET\PassByRefferenceOUT\obj\Debug\PassByRefferenceOUT.exe
+H:\ASP.NET\PassByRefferenceOUT\obj\Debug\PassByRefferenceOUT.pdb
