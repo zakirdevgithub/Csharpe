@@ -1,0 +1,5 @@
+H:\ASP.NET\Operator\bin\Debug\Operator.exe.config
+H:\ASP.NET\Operator\bin\Debug\Operator.exe
+H:\ASP.NET\Operator\bin\Debug\Operator.pdb
+H:\ASP.NET\Operator\obj\Debug\Operator.exe
+H:\ASP.NET\Operator\obj\Debug\Operator.pdb
