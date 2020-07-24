@@ -1,0 +1,6 @@
+H:\ASP.NET\ClassAndObject\bin\Debug\ClassAndObject.exe.config
+H:\ASP.NET\ClassAndObject\bin\Debug\ClassAndObject.exe
+H:\ASP.NET\ClassAndObject\bin\Debug\ClassAndObject.pdb
+H:\ASP.NET\ClassAndObject\obj\Debug\ClassAndObject.csprojAssemblyReference.cache
+H:\ASP.NET\ClassAndObject\obj\Debug\ClassAndObject.exe
+H:\ASP.NET\ClassAndObject\obj\Debug\ClassAndObject.pdb
