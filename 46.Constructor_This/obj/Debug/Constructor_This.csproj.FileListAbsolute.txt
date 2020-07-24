@@ -1,0 +1,7 @@
+H:\C# Programming\Constructor_This\bin\Debug\Constructor_This.exe.config
+H:\C# Programming\Constructor_This\bin\Debug\Constructor_This.exe
+H:\C# Programming\Constructor_This\bin\Debug\Constructor_This.pdb
+H:\C# Programming\Constructor_This\obj\Debug\Constructor_This.csprojAssemblyReference.cache
+H:\C# Programming\Constructor_This\obj\Debug\Constructor_This.csproj.CoreCompileInputs.cache
+H:\C# Programming\Constructor_This\obj\Debug\Constructor_This.exe
+H:\C# Programming\Constructor_This\obj\Debug\Constructor_This.pdb
