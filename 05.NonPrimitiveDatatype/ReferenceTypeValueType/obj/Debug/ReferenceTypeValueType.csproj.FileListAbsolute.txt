@@ -1,0 +1,6 @@
+H:\ASP.NET\NonPrimitiveDatatype\ReferenceTypeValueType\bin\Debug\ReferenceTypeValueType.exe.config
+H:\ASP.NET\NonPrimitiveDatatype\ReferenceTypeValueType\bin\Debug\ReferenceTypeValueType.exe
+H:\ASP.NET\NonPrimitiveDatatype\ReferenceTypeValueType\bin\Debug\ReferenceTypeValueType.pdb
+H:\ASP.NET\NonPrimitiveDatatype\ReferenceTypeValueType\obj\Debug\ReferenceTypeValueType.csprojAssemblyReference.cache
+H:\ASP.NET\NonPrimitiveDatatype\ReferenceTypeValueType\obj\Debug\ReferenceTypeValueType.exe
+H:\ASP.NET\NonPrimitiveDatatype\ReferenceTypeValueType\obj\Debug\ReferenceTypeValueType.pdb

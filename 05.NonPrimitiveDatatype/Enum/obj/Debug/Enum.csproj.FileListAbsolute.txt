@@ -1,0 +1,6 @@
+H:\ASP.NET\NonPrimitiveDatatype\Enum\bin\Debug\Enum.exe.config
+H:\ASP.NET\NonPrimitiveDatatype\Enum\bin\Debug\Enum.exe
+H:\ASP.NET\NonPrimitiveDatatype\Enum\bin\Debug\Enum.pdb
+H:\ASP.NET\NonPrimitiveDatatype\Enum\obj\Debug\Enum.csprojAssemblyReference.cache
+H:\ASP.NET\NonPrimitiveDatatype\Enum\obj\Debug\Enum.exe
+H:\ASP.NET\NonPrimitiveDatatype\Enum\obj\Debug\Enum.pdb

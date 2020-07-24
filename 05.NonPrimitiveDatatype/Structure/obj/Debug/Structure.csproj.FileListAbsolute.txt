@@ -1,0 +1,6 @@
+H:\ASP.NET\NonPrimitiveDatatype\Structure\bin\Debug\Structure.exe.config
+H:\ASP.NET\NonPrimitiveDatatype\Structure\bin\Debug\Structure.exe
+H:\ASP.NET\NonPrimitiveDatatype\Structure\bin\Debug\Structure.pdb
+H:\ASP.NET\NonPrimitiveDatatype\Structure\obj\Debug\Structure.csprojAssemblyReference.cache
+H:\ASP.NET\NonPrimitiveDatatype\Structure\obj\Debug\Structure.exe
+H:\ASP.NET\NonPrimitiveDatatype\Structure\obj\Debug\Structure.pdb

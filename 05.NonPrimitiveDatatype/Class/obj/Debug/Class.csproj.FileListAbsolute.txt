@@ -1,0 +1,6 @@
+H:\ASP.NET\NonPrimitiveDatatype\Class\bin\Debug\Class.exe.config
+H:\ASP.NET\NonPrimitiveDatatype\Class\bin\Debug\Class.exe
+H:\ASP.NET\NonPrimitiveDatatype\Class\bin\Debug\Class.pdb
+H:\ASP.NET\NonPrimitiveDatatype\Class\obj\Debug\Class.csprojAssemblyReference.cache
+H:\ASP.NET\NonPrimitiveDatatype\Class\obj\Debug\Class.exe
+H:\ASP.NET\NonPrimitiveDatatype\Class\obj\Debug\Class.pdb
