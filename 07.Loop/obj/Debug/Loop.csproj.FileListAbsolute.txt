@@ -1,0 +1,5 @@
+H:\ASP.NET\Loop\bin\Debug\Loop.exe.config
+H:\ASP.NET\Loop\bin\Debug\Loop.exe
+H:\ASP.NET\Loop\bin\Debug\Loop.pdb
+H:\ASP.NET\Loop\obj\Debug\Loop.exe
+H:\ASP.NET\Loop\obj\Debug\Loop.pdb
