@@ -1,0 +1,6 @@
+H:\ASP.NET\FinalizerOrDestructor\bin\Debug\FinalizerOrDestructor.exe.config
+H:\ASP.NET\FinalizerOrDestructor\bin\Debug\FinalizerOrDestructor.exe
+H:\ASP.NET\FinalizerOrDestructor\bin\Debug\FinalizerOrDestructor.pdb
+H:\ASP.NET\FinalizerOrDestructor\obj\Debug\FinalizerOrDestructor.csprojAssemblyReference.cache
+H:\ASP.NET\FinalizerOrDestructor\obj\Debug\FinalizerOrDestructor.exe
+H:\ASP.NET\FinalizerOrDestructor\obj\Debug\FinalizerOrDestructor.pdb
