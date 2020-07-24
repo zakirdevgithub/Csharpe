@@ -1,0 +1,5 @@
+H:\ASP.NET\RandomNumber\bin\Debug\RandomNumber.exe.config
+H:\ASP.NET\RandomNumber\bin\Debug\RandomNumber.exe
+H:\ASP.NET\RandomNumber\bin\Debug\RandomNumber.pdb
+H:\ASP.NET\RandomNumber\obj\Debug\RandomNumber.exe
+H:\ASP.NET\RandomNumber\obj\Debug\RandomNumber.pdb
