@@ -1,0 +1,6 @@
+H:\ASP.NET\GenericClass\bin\Debug\GenericClass.exe.config
+H:\ASP.NET\GenericClass\bin\Debug\GenericClass.exe
+H:\ASP.NET\GenericClass\bin\Debug\GenericClass.pdb
+H:\ASP.NET\GenericClass\obj\Debug\GenericClass.csproj.CoreCompileInputs.cache
+H:\ASP.NET\GenericClass\obj\Debug\GenericClass.exe
+H:\ASP.NET\GenericClass\obj\Debug\GenericClass.pdb
