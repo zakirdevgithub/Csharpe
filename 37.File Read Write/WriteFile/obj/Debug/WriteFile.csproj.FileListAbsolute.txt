@@ -1,0 +1,6 @@
+H:\ASP.NET\File Read Write\WriteFile\bin\Debug\WriteFile.exe.config
+H:\ASP.NET\File Read Write\WriteFile\bin\Debug\WriteFile.exe
+H:\ASP.NET\File Read Write\WriteFile\bin\Debug\WriteFile.pdb
+H:\ASP.NET\File Read Write\WriteFile\obj\Debug\WriteFile.csproj.CoreCompileInputs.cache
+H:\ASP.NET\File Read Write\WriteFile\obj\Debug\WriteFile.exe
+H:\ASP.NET\File Read Write\WriteFile\obj\Debug\WriteFile.pdb

@@ -1,0 +1,7 @@
+H:\ASP.NET\File Read Write\ReadFile\bin\Debug\ReadFile.exe.config
+H:\ASP.NET\File Read Write\ReadFile\bin\Debug\ReadFile.exe
+H:\ASP.NET\File Read Write\ReadFile\bin\Debug\ReadFile.pdb
+H:\ASP.NET\File Read Write\ReadFile\obj\Debug\ReadFile.csprojAssemblyReference.cache
+H:\ASP.NET\File Read Write\ReadFile\obj\Debug\ReadFile.csproj.CoreCompileInputs.cache
+H:\ASP.NET\File Read Write\ReadFile\obj\Debug\ReadFile.exe
+H:\ASP.NET\File Read Write\ReadFile\obj\Debug\ReadFile.pdb

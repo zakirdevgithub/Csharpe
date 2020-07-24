@@ -1,0 +1,6 @@
+H:\ASP.NET\File Read Write\ReadFileWithStream\bin\Debug\ReadFileWithStream.exe.config
+H:\ASP.NET\File Read Write\ReadFileWithStream\bin\Debug\ReadFileWithStream.exe
+H:\ASP.NET\File Read Write\ReadFileWithStream\bin\Debug\ReadFileWithStream.pdb
+H:\ASP.NET\File Read Write\ReadFileWithStream\obj\Debug\ReadFileWithStream.csproj.CoreCompileInputs.cache
+H:\ASP.NET\File Read Write\ReadFileWithStream\obj\Debug\ReadFileWithStream.exe
+H:\ASP.NET\File Read Write\ReadFileWithStream\obj\Debug\ReadFileWithStream.pdb
