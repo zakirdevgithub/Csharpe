@@ -1,0 +1,7 @@
+H:\ASP.NET\PartialClass\bin\Debug\PartialClass.exe.config
+H:\ASP.NET\PartialClass\bin\Debug\PartialClass.exe
+H:\ASP.NET\PartialClass\bin\Debug\PartialClass.pdb
+H:\ASP.NET\PartialClass\obj\Debug\PartialClass.csprojAssemblyReference.cache
+H:\ASP.NET\PartialClass\obj\Debug\PartialClass.csproj.CoreCompileInputs.cache
+H:\ASP.NET\PartialClass\obj\Debug\PartialClass.exe
+H:\ASP.NET\PartialClass\obj\Debug\PartialClass.pdb
