@@ -1,0 +1,6 @@
+H:\ASP.NET\MethodAbstraction\bin\Debug\MethodAbstraction.exe.config
+H:\ASP.NET\MethodAbstraction\bin\Debug\MethodAbstraction.exe
+H:\ASP.NET\MethodAbstraction\bin\Debug\MethodAbstraction.pdb
+H:\ASP.NET\MethodAbstraction\obj\Debug\MethodAbstraction.csproj.CoreCompileInputs.cache
+H:\ASP.NET\MethodAbstraction\obj\Debug\MethodAbstraction.exe
+H:\ASP.NET\MethodAbstraction\obj\Debug\MethodAbstraction.pdb
