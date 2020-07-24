@@ -1,0 +1,7 @@
+H:\ASP.NET\AbstractProperties\bin\Debug\AbstractProperties.exe.config
+H:\ASP.NET\AbstractProperties\bin\Debug\AbstractProperties.exe
+H:\ASP.NET\AbstractProperties\bin\Debug\AbstractProperties.pdb
+H:\ASP.NET\AbstractProperties\obj\Debug\AbstractProperties.csprojAssemblyReference.cache
+H:\ASP.NET\AbstractProperties\obj\Debug\AbstractProperties.csproj.CoreCompileInputs.cache
+H:\ASP.NET\AbstractProperties\obj\Debug\AbstractProperties.exe
+H:\ASP.NET\AbstractProperties\obj\Debug\AbstractProperties.pdb
