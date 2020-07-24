@@ -1,0 +1,7 @@
+H:\ASP.NET\AbstractClass\bin\Debug\AbstractClass.exe.config
+H:\ASP.NET\AbstractClass\bin\Debug\AbstractClass.exe
+H:\ASP.NET\AbstractClass\bin\Debug\AbstractClass.pdb
+H:\ASP.NET\AbstractClass\obj\Debug\AbstractClass.csprojAssemblyReference.cache
+H:\ASP.NET\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+H:\ASP.NET\AbstractClass\obj\Debug\AbstractClass.exe
+H:\ASP.NET\AbstractClass\obj\Debug\AbstractClass.pdb
