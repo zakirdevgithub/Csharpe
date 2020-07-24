@@ -1,0 +1,6 @@
+H:\ASP.NET\Constructor\bin\Debug\Constructor.exe.config
+H:\ASP.NET\Constructor\bin\Debug\Constructor.exe
+H:\ASP.NET\Constructor\bin\Debug\Constructor.pdb
+H:\ASP.NET\Constructor\obj\Debug\Constructor.csprojAssemblyReference.cache
+H:\ASP.NET\Constructor\obj\Debug\Constructor.exe
+H:\ASP.NET\Constructor\obj\Debug\Constructor.pdb
