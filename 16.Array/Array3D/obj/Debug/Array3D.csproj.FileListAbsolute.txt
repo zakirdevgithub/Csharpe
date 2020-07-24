@@ -1,0 +1,6 @@
+H:\ASP.NET\Array\Array3D\bin\Debug\Array3D.exe.config
+H:\ASP.NET\Array\Array3D\bin\Debug\Array3D.exe
+H:\ASP.NET\Array\Array3D\bin\Debug\Array3D.pdb
+H:\ASP.NET\Array\Array3D\obj\Debug\Array3D.csprojAssemblyReference.cache
+H:\ASP.NET\Array\Array3D\obj\Debug\Array3D.exe
+H:\ASP.NET\Array\Array3D\obj\Debug\Array3D.pdb

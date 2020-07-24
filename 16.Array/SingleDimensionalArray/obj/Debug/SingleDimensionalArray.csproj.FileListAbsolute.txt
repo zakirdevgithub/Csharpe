@@ -1,0 +1,6 @@
+H:\ASP.NET\Array\SingleDimensionalArray\bin\Debug\SingleDimensionalArray.exe.config
+H:\ASP.NET\Array\SingleDimensionalArray\bin\Debug\SingleDimensionalArray.exe
+H:\ASP.NET\Array\SingleDimensionalArray\bin\Debug\SingleDimensionalArray.pdb
+H:\ASP.NET\Array\SingleDimensionalArray\obj\Debug\SingleDimensionalArray.csprojAssemblyReference.cache
+H:\ASP.NET\Array\SingleDimensionalArray\obj\Debug\SingleDimensionalArray.exe
+H:\ASP.NET\Array\SingleDimensionalArray\obj\Debug\SingleDimensionalArray.pdb

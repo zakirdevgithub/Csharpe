@@ -1,0 +1,6 @@
+H:\ASP.NET\Array\JaggedArray\bin\Debug\JaggedArray.exe.config
+H:\ASP.NET\Array\JaggedArray\bin\Debug\JaggedArray.exe
+H:\ASP.NET\Array\JaggedArray\bin\Debug\JaggedArray.pdb
+H:\ASP.NET\Array\JaggedArray\obj\Debug\JaggedArray.csprojAssemblyReference.cache
+H:\ASP.NET\Array\JaggedArray\obj\Debug\JaggedArray.exe
+H:\ASP.NET\Array\JaggedArray\obj\Debug\JaggedArray.pdb
