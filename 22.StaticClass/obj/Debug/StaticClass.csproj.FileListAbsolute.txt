@@ -1,0 +1,6 @@
+H:\ASP.NET\StaticClass\bin\Debug\StaticClass.exe.config
+H:\ASP.NET\StaticClass\bin\Debug\StaticClass.exe
+H:\ASP.NET\StaticClass\bin\Debug\StaticClass.pdb
+H:\ASP.NET\StaticClass\obj\Debug\StaticClass.csprojAssemblyReference.cache
+H:\ASP.NET\StaticClass\obj\Debug\StaticClass.exe
+H:\ASP.NET\StaticClass\obj\Debug\StaticClass.pdb
