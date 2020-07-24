@@ -1,0 +1,7 @@
+H:\C# Programming\List_Practice\bin\Debug\List_Practice.exe.config
+H:\C# Programming\List_Practice\bin\Debug\List_Practice.exe
+H:\C# Programming\List_Practice\bin\Debug\List_Practice.pdb
+H:\C# Programming\List_Practice\obj\Debug\List_Practice.csprojAssemblyReference.cache
+H:\C# Programming\List_Practice\obj\Debug\List_Practice.csproj.CoreCompileInputs.cache
+H:\C# Programming\List_Practice\obj\Debug\List_Practice.exe
+H:\C# Programming\List_Practice\obj\Debug\List_Practice.pdb
