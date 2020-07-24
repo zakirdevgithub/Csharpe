@@ -1,0 +1,7 @@
+H:\ASP.NET\Interface\bin\Debug\Interface.exe.config
+H:\ASP.NET\Interface\bin\Debug\Interface.exe
+H:\ASP.NET\Interface\bin\Debug\Interface.pdb
+H:\ASP.NET\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+H:\ASP.NET\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+H:\ASP.NET\Interface\obj\Debug\Interface.exe
+H:\ASP.NET\Interface\obj\Debug\Interface.pdb
