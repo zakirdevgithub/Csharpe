@@ -1,0 +1,7 @@
+H:\ASP.NET\Inheritance\Basic\bin\Debug\Basic.exe.config
+H:\ASP.NET\Inheritance\Basic\bin\Debug\Basic.exe
+H:\ASP.NET\Inheritance\Basic\bin\Debug\Basic.pdb
+H:\ASP.NET\Inheritance\Basic\obj\Debug\Basic.csprojAssemblyReference.cache
+H:\ASP.NET\Inheritance\Basic\obj\Debug\Basic.csproj.CoreCompileInputs.cache
+H:\ASP.NET\Inheritance\Basic\obj\Debug\Basic.exe
+H:\ASP.NET\Inheritance\Basic\obj\Debug\Basic.pdb
