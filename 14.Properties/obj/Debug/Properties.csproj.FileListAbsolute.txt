@@ -1,0 +1,6 @@
+H:\ASP.NET\Properties\bin\Debug\Properties.exe.config
+H:\ASP.NET\Properties\bin\Debug\Properties.exe
+H:\ASP.NET\Properties\bin\Debug\Properties.pdb
+H:\ASP.NET\Properties\obj\Debug\Properties.csprojAssemblyReference.cache
+H:\ASP.NET\Properties\obj\Debug\Properties.exe
+H:\ASP.NET\Properties\obj\Debug\Properties.pdb
