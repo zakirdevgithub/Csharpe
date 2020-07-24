@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AccessSpecifiers2/1.0.0": {
+        "dependencies": {
+          "AccessSpecifiers1": "1.0.0"
+        },
+        "runtime": {
+          "AccessSpecifiers2.dll": {}
+        }
+      },
+      "AccessSpecifiers1/1.0.0": {
+        "runtime": {
+          "AccessSpecifiers1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccessSpecifiers2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AccessSpecifiers1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

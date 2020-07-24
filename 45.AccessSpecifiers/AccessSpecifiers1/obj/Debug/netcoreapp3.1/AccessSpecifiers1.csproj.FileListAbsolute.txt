@@ -1,0 +1,11 @@
+H:\C# World\41.AccessSpecifiers\AccessSpecifiers1\bin\Debug\netcoreapp3.1\AccessSpecifiers1.exe
+H:\C# World\41.AccessSpecifiers\AccessSpecifiers1\bin\Debug\netcoreapp3.1\AccessSpecifiers1.deps.json
+H:\C# World\41.AccessSpecifiers\AccessSpecifiers1\bin\Debug\netcoreapp3.1\AccessSpecifiers1.runtimeconfig.json
+H:\C# World\41.AccessSpecifiers\AccessSpecifiers1\bin\Debug\netcoreapp3.1\AccessSpecifiers1.runtimeconfig.dev.json
+H:\C# World\41.AccessSpecifiers\AccessSpecifiers1\bin\Debug\netcoreapp3.1\AccessSpecifiers1.dll
+H:\C# World\41.AccessSpecifiers\AccessSpecifiers1\bin\Debug\netcoreapp3.1\AccessSpecifiers1.pdb
+H:\C# World\41.AccessSpecifiers\AccessSpecifiers1\obj\Debug\netcoreapp3.1\AccessSpecifiers1.csprojAssemblyReference.cache
+H:\C# World\41.AccessSpecifiers\AccessSpecifiers1\obj\Debug\netcoreapp3.1\AccessSpecifiers1.AssemblyInfoInputs.cache
+H:\C# World\41.AccessSpecifiers\AccessSpecifiers1\obj\Debug\netcoreapp3.1\AccessSpecifiers1.AssemblyInfo.cs
+H:\C# World\41.AccessSpecifiers\AccessSpecifiers1\obj\Debug\netcoreapp3.1\AccessSpecifiers1.dll
+H:\C# World\41.AccessSpecifiers\AccessSpecifiers1\obj\Debug\netcoreapp3.1\AccessSpecifiers1.pdb
