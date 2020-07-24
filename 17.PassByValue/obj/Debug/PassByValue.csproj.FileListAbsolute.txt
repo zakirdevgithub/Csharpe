@@ -1,0 +1,6 @@
+H:\ASP.NET\PassByValue\bin\Debug\PassByValue.exe.config
+H:\ASP.NET\PassByValue\bin\Debug\PassByValue.exe
+H:\ASP.NET\PassByValue\bin\Debug\PassByValue.pdb
+H:\ASP.NET\PassByValue\obj\Debug\PassByValue.csprojAssemblyReference.cache
+H:\ASP.NET\PassByValue\obj\Debug\PassByValue.exe
+H:\ASP.NET\PassByValue\obj\Debug\PassByValue.pdb
