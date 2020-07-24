@@ -1,0 +1,14 @@
+H:\ASP.NET\MyThread\bin\Debug\MyThread.exe.config
+H:\ASP.NET\MyThread\bin\Debug\MyThread.exe
+H:\ASP.NET\MyThread\bin\Debug\MyThread.pdb
+H:\ASP.NET\MyThread\obj\Debug\MyThread.csprojAssemblyReference.cache
+H:\ASP.NET\MyThread\obj\Debug\MyThread.csproj.CoreCompileInputs.cache
+H:\ASP.NET\MyThread\obj\Debug\MyThread.exe
+H:\ASP.NET\MyThread\obj\Debug\MyThread.pdb
+H:\C# Programming\MyThread\bin\Debug\MyThread.exe.config
+H:\C# Programming\MyThread\bin\Debug\MyThread.exe
+H:\C# Programming\MyThread\bin\Debug\MyThread.pdb
+H:\C# Programming\MyThread\obj\Debug\MyThread.csprojAssemblyReference.cache
+H:\C# Programming\MyThread\obj\Debug\MyThread.csproj.CoreCompileInputs.cache
+H:\C# Programming\MyThread\obj\Debug\MyThread.exe
+H:\C# Programming\MyThread\obj\Debug\MyThread.pdb
