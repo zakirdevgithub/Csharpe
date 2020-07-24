@@ -1,0 +1,6 @@
+H:\ASP.NET\PrimitiveDataType\bin\Debug\PrimitiveDataType.exe.config
+H:\ASP.NET\PrimitiveDataType\bin\Debug\PrimitiveDataType.exe
+H:\ASP.NET\PrimitiveDataType\bin\Debug\PrimitiveDataType.pdb
+H:\ASP.NET\PrimitiveDataType\obj\Debug\PrimitiveDataType.csprojAssemblyReference.cache
+H:\ASP.NET\PrimitiveDataType\obj\Debug\PrimitiveDataType.exe
+H:\ASP.NET\PrimitiveDataType\obj\Debug\PrimitiveDataType.pdb
