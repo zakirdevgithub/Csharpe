@@ -1,0 +1,7 @@
+H:\ASP.NET\DateTimePractice\bin\Debug\DateTimePractice.exe.config
+H:\ASP.NET\DateTimePractice\bin\Debug\DateTimePractice.exe
+H:\ASP.NET\DateTimePractice\bin\Debug\DateTimePractice.pdb
+H:\ASP.NET\DateTimePractice\obj\Debug\DateTimePractice.csprojAssemblyReference.cache
+H:\ASP.NET\DateTimePractice\obj\Debug\DateTimePractice.csproj.CoreCompileInputs.cache
+H:\ASP.NET\DateTimePractice\obj\Debug\DateTimePractice.exe
+H:\ASP.NET\DateTimePractice\obj\Debug\DateTimePractice.pdb
