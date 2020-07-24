@@ -1,0 +1,6 @@
+H:\ASP.NET\Delegator\bin\Debug\Delegator.exe.config
+H:\ASP.NET\Delegator\bin\Debug\Delegator.exe
+H:\ASP.NET\Delegator\bin\Debug\Delegator.pdb
+H:\ASP.NET\Delegator\obj\Debug\Delegator.csproj.CoreCompileInputs.cache
+H:\ASP.NET\Delegator\obj\Debug\Delegator.exe
+H:\ASP.NET\Delegator\obj\Debug\Delegator.pdb
