@@ -1,0 +1,7 @@
+H:\ASP.NET\DelegateAdvanced\bin\Debug\DelegateAdvanced.exe.config
+H:\ASP.NET\DelegateAdvanced\bin\Debug\DelegateAdvanced.exe
+H:\ASP.NET\DelegateAdvanced\bin\Debug\DelegateAdvanced.pdb
+H:\ASP.NET\DelegateAdvanced\obj\Debug\DelegateAdvanced.csprojAssemblyReference.cache
+H:\ASP.NET\DelegateAdvanced\obj\Debug\DelegateAdvanced.csproj.CoreCompileInputs.cache
+H:\ASP.NET\DelegateAdvanced\obj\Debug\DelegateAdvanced.exe
+H:\ASP.NET\DelegateAdvanced\obj\Debug\DelegateAdvanced.pdb
